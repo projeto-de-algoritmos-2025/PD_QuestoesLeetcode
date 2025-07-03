@@ -1,13 +1,12 @@
 ---
 
-title: "🚗 Projeto de Algoritmos - Parking lot com Grafos"
+title: " Projeto de Algoritmos - Questões de Programação Dinâmica"
 
 ---
 
 ## 👩‍💻 Integrantes
 
-- 202016702 Letícia Torres Soares Martins  
-- 221008801	Bianca Patrocínio Castro
+- 202016364 Guilherme Coelho Mendonça 
 
 ---
 
@@ -20,7 +19,7 @@ Desenvolver um sistema de estacionamento que utiliza **algoritmos de grafos** pa
 
 ## 🔧 Tecnologias e Estruturas Utilizadas
 
-- **Linguagem**: C++
+- **Linguagem**: 
 - **Representação do grafo**: Lista de adjacência
 - **Tipo de grafo**: Direcionado
 - **Algoritmo de busca**: BFS (Breadth-First Search)
