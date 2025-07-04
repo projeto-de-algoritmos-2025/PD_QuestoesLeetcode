@@ -19,39 +19,13 @@ Desenvolver um sistema de estacionamento que utiliza **algoritmos de grafos** pa
 
 ## 🔧 Tecnologias e Estruturas Utilizadas
 
-- **Linguagem**: 
-- **Representação do grafo**: Lista de adjacência
+- **Linguagem**: Python
+- **Plataforma**: LeetCode
 - **Tipo de grafo**: Direcionado
-- **Algoritmo de busca**: BFS (Breadth-First Search)
 
----
-
-## 🧩 Modelagem do Grafo
-
-### 🟢 Nós (Vértices)
-Cada **nó** do grafo representa uma **vaga** do estacionamento.
-
-#### Atributos de um nó:
-- `id`: número da vaga
-- `loja_proxima`: nome da loja mais próxima (ex: "Americanas")
-- `ocupada`: booleano indicando se a vaga está ocupada (`true`) ou livre (`false`)
-
-### 🔗 Arestas
-As **arestas** representam os **caminhos** entre as vagas do estacionamento. Como nem todos os caminhos são necessariamente bidirecionais, o grafo será **direcionado**.
 
 ### 🧱 Estrutura de dados utilizada
 Usaremos uma **lista de adjacência** para representar o grafo.
-
----
-
-## 🏪 Lojas Disponíveis
-
-As lojas próximas às vagas são:
-
-- Americanas
-- Magazine Luiza (Magalu)
-- C&A
-- Outros exemplos
 
 ---
 

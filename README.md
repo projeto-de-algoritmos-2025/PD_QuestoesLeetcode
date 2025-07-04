@@ -1,4 +1,5 @@
-# Parking lot
+# PD_QuestoesLeetcode
+
 
 **Número da Lista**: 5  
 **Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01  
@@ -21,6 +22,18 @@
 
 ## Sobre 
 Este repositório apresenta resoluções de problemas envolvendo *Programação Dinâmica*, propostos como parte da Lista 5 da disciplina de Projeto de Algoritmos.
+
+A plataforma LeetCode foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório; caso queira conferir o enunciado, basta clicar no link disponível na Tabela.
+
+As soluções apresentadas foram elaboradas focando nos conceitos explicados em sala de aula sobre programação dinâmica, como Maior Subsequência Crescente, Knapsack DP vs Greed e Programação Dinâmica com Matrizes.
+
+**Linguagem**: Python
+
+## Sobre LeetCode
+
+A LeetCode é uma famosa plataforma (online) utilizada por programadores que querem desenvolver suas habilidades com os mais diversos conceitos e práticas de TI.
+
+A plataforma disponibiliza problemas classificados por dificuldade (fácil, médio e difícil), sendo utilizadas para este trabalho 1 questão média e 2 dificeis. Vale ressaltar que este repositório foi feito por um aluno, no qual não formou dupla, portanto só tem 3 questões e o aluno espera uma avaliação justa de acordo.
 
 ## Screenshots
 <p align="center">
@@ -61,66 +74,6 @@ Este repositório apresenta resoluções de problemas envolvendo *Programação 
 
 
 
-## Instalação 
-**Linguagem**: Phyton
-
-## Pré-requisitos
-
-Antes de rodar o projeto, você precisará ter os seguintes programas instalados:
-
-- **g++** (compilador C++).
-- **make** (ferramenta de automação de builds).
-- **Graphviz (dot)** para gerar e visualizar os grafos do caminho.
-
-### Instalar g++, make e dot
-
-#### No macOS:
-Se você usa macOS, pode instalar com o Homebrew:
-
-```bash
-brew install gcc make graphviz
-```
-
-#### No Linux (Ubuntu/Debian):
-No Linux, instale com:
-
-```bash
-sudo apt update
-sudo apt install build-essential graphviz
-```
-
-## Como compilar e executar o projeto
-### Passo 1: Clonar o repositório
-```bash
-git clone https://github.com/seu-usuario/Grafos-1-Parking-lot.git
-cd Grafos-1-Parking-lot
-```
-
-### Passo 2: Compilar o projeto
-Para compilar o projeto, use o comando make. Isso irá compilar todos os arquivos fonte e gerar o executável:
-
-```bash
-make
-```
-
-### Passo 3: Rodar o projeto
-Após a compilação, execute o programa gerado:
-
-```bash
-./Grafos-1-Parking-lot
-```
-
-## Uso 
-Após rodar o programa, escolha uma loja. O sistema encontrará a vaga mais próxima disponível usando o algoritmo BFS, e um grafo será gerado mostrando o caminho até essa vaga.
-
-O grafo será salvo como uma imagem `.png` no formato:
-
-```
-caminho_para_vaga_X.png
-```
-
-(onde `X` é o número da vaga).
-
 ## Apresentação 
 
 <div align="center">
@@ -130,10 +83,10 @@ caminho_para_vaga_X.png
 <font size="3"><p style="text-align: center">Autor: [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Letícia Torres](https://github.com/leticiatmartins).</p></font>
 
 
-## Outros 
-- O projeto usa a biblioteca Graphviz para gerar arquivos `.dot` e convertê-los em imagens PNG.
-- Se tiver problemas para visualizar as imagens, verifique se o `dot` está instalado corretamente.
-  
+## Execução dos códigos na plataforma LeetCode
+A maneira mais fácil de exceutar ou reproduzir os códigos e os resultados mostrados nos prints da plataforma LeetCode, é na própria plataforma. Basta acessar os links das questões acima e executar ou submeter os códigos. No entanto para isso, é preciso criar uma conta gratuita na ferramenta.
 
+Caso não queira utilizar a plataforma LeetCode, é necessário adaptar os códigos alterando ou removendo as funções adequando ou removendo os parâmetros, bem como incluir os imports necessários.
 
-
+## Disciplina
+Este trabalho foi desenvolvido para a disciplina Projeto de Algoritmos, ministrada pelo Prof. Maurício, no curso de Engenharia de Software da Universidade de Brasília - Faculdade de Ciências e Tecnologias em Engenharia (UnB - FCTE).
