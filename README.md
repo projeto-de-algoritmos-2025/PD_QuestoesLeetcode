@@ -77,7 +77,7 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 ## Apresentação 
 
 <div align="center">
-<a href="linkyt"><img src="https://i.imgur.com/nNBEJk2.png" width="50%"></a>
+<a href="linkyt"><img src="https://i.imgur.com/.png" width="50%"></a>
 </div>
 
 <font size="3"><p style="text-align: center">Autor: [Guilherme Coelho Mendonça](https://github.com/Guilermanoo).</p></font>
