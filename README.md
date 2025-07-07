@@ -46,42 +46,16 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 
 ## Screenshots
 <p align="center">
-  <img src="Documentos/screenshots/Print%201.png" alt="Print 1 do projeto" width="600"/>
+  <img src="screenshots\3.png" alt="Print da Questão 300" width="600"/>
 </p>
 
 <p align="center">
-  <img src="Documentos/screenshots/Print%202.png" alt="Print 2 do projeto" width="600"/>
+  <img src="screenshots\10Dificil.png" alt="Print da Questão 10" width="600"/>
 </p>
 
 <p align="center">
-  <img src="Documentos/screenshots/Print%203.png" alt="Print 3 do projeto" width="600"/>
+  <img src="screenshots\322.png" alt="Print da Questão 320" width="600"/>
 </p>
-
-<p align="center">
-  <img src="Documentos/screenshots/Print.png" alt="Print do projeto" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Documentos/screenshots/Print%204.png" alt="Print 4 do projeto" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Documentos/screenshots/Print%205.png" alt="Print 5 do projeto" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Documentos/screenshots/Print%206.png" alt="Print 6 do projeto" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Documentos/screenshots/Print%207.png" alt="Print 7 do projeto" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Documentos/screenshots/Print%208.png" alt="Print 8 do projeto" width="600"/>
-</p>
-
-
 
 ## Apresentação 
 
