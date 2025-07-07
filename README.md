@@ -23,7 +23,7 @@
 ## Sobre 
 Este repositório apresenta resoluções de problemas envolvendo *Programação Dinâmica*, propostos como parte da Lista 5 da disciplina de Projeto de Algoritmos.
 
-A plataforma [LeetCode](https://leetcode.com) foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório; caso queira conferir o enunciado, basta clicar no link disponível na Tabela.
+A plataforma [LeetCode](https://leetcode.com) foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório; caso queira conferir o enunciado, basta clicar no link disponível na [Tabela](#exercícios-resolvidos).
 
 As soluções apresentadas foram elaboradas focando nos conceitos explicados em sala de aula sobre programação dinâmica, como Maior Subsequência Crescente, Knapsack DP vs Greed e Programação Dinâmica com Matrizes.
 
@@ -33,7 +33,7 @@ As soluções apresentadas foram elaboradas focando nos conceitos explicados em 
 
 A [LeetCode](https://leetcode.com) é uma famosa plataforma (online) utilizada por programadores que querem desenvolver suas habilidades com os mais diversos conceitos e práticas de TI.
 
-A plataforma disponibiliza problemas classificados por dificuldade (fácil, médio e difícil), sendo utilizadas para este trabalho 1 questão média e 2 dificeis. Vale ressaltar que este repositório foi feito por um aluno, no qual não formou dupla, portanto só tem 3 questões e o aluno espera uma avaliação justa de acordo.
+A plataforma disponibiliza problemas classificados por dificuldade (fácil, médio e difícil), sendo utilizadas para este trabalho 2 questões médias e 1 dificil. Vale ressaltar que este repositório foi feito por um aluno, no qual não formou dupla, portanto só tem 3 questões e o aluno espera uma avaliação justa de acordo.
 
 ## Exercícios Resolvidos
 
