@@ -23,7 +23,7 @@
 ## Sobre 
 Este repositório apresenta resoluções de problemas envolvendo *Programação Dinâmica*, propostos como parte da Lista 5 da disciplina de Projeto de Algoritmos.
 
-A plataforma LeetCode foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório; caso queira conferir o enunciado, basta clicar no link disponível na Tabela.
+A plataforma [LeetCode](https://leetcode.com) foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório; caso queira conferir o enunciado, basta clicar no link disponível na Tabela.
 
 As soluções apresentadas foram elaboradas focando nos conceitos explicados em sala de aula sobre programação dinâmica, como Maior Subsequência Crescente, Knapsack DP vs Greed e Programação Dinâmica com Matrizes.
 
@@ -31,9 +31,18 @@ As soluções apresentadas foram elaboradas focando nos conceitos explicados em 
 
 ## Sobre LeetCode
 
-A LeetCode é uma famosa plataforma (online) utilizada por programadores que querem desenvolver suas habilidades com os mais diversos conceitos e práticas de TI.
+A [LeetCode](https://leetcode.com) é uma famosa plataforma (online) utilizada por programadores que querem desenvolver suas habilidades com os mais diversos conceitos e práticas de TI.
 
 A plataforma disponibiliza problemas classificados por dificuldade (fácil, médio e difícil), sendo utilizadas para este trabalho 1 questão média e 2 dificeis. Vale ressaltar que este repositório foi feito por um aluno, no qual não formou dupla, portanto só tem 3 questões e o aluno espera uma avaliação justa de acordo.
+
+## Exercícios Resolvidos
+
+| Exercício | Enunciado | Resolução | Dificuldade | Autor da Resolução |
+| :--: | -- | :--: | -- | -- |
+| 1 | [322. Coin Change](https://leetcode.com/problems/coin-change/description/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM) | [LC322.py](Projeto\Questao_10_Regular_Expression_Matching.py) | Média | Guilherme Coelho Mendonça |
+| 2 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM) | [LC300.py](Projeto\Questao_300_Longest_Increasing_Subsequence.py) | Média | Guilherme Coelho Mendonça |
+| 3 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM) | [LC10.py](Projeto\Questao_10_Regular_Expression_Matching.py) | Difícil | Guilherme Coelho Mendonça |
+
 
 ## Screenshots
 <p align="center">
