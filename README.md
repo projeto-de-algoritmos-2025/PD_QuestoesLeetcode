@@ -41,7 +41,7 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 | :--: | -- | :--: | -- | -- |
 | 1 | [322. Coin Change](https://leetcode.com/problems/coin-change/description/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM) | [LC322.py](Projeto\Questao_10_Regular_Expression_Matching.py) | Média | Guilherme Coelho Mendonça |
 | 2 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM) | [LC300.py](Projeto\Questao_300_Longest_Increasing_Subsequence.py) | Média | Guilherme Coelho Mendonça |
-| 3 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM) | [LC10.py](Projeto\Questao_10_Regular_Expression_Matching.py) | Difícil | Guilherme Coelho Mendonça |
+| 3 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM) | [LC10.py](./Projeto\Questao_10_Regular_Expression_Matching.py) | Difícil | Guilherme Coelho Mendonça |
 
 
 ## Screenshots
